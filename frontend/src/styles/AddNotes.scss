@@ -1,0 +1,16 @@
+textarea{
+  height: 10rem;
+}
+
+.btn, .btn:disabled{
+  background-color: hotpink;
+  border-color: deeppink;
+  color:white;
+  &:hover{
+    background-color: rgb(255, 87, 171);
+    color:white;
+  }
+}
+.badge{
+  color:white;
+}
