@@ -4,8 +4,8 @@ I used Mongodb, Express, React and Node, in addition to typeScript and Scss. It 
 
 ## where you post
 
-![](https://github.com/GArticuno/moveit-pokemon_edition/blob/main/tela1.png)
+![](https://github.com/GArticuno/MERN_project/blob/main/tela1.png)
 
 ## where the data is seen
 
-![](https://github.com/GArticuno/moveit-pokemon_edition/blob/main/tela2.png)
+![](https://github.com/GArticuno/MERN_project/blob/main/tela2.png)
