@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 app.use(cors());
 app.use(express.json())
 
-mongoose.connect('mongodb+srv://Admin-Garticuno:EOkvq5ngfWuove5m@cluster0.p6rrr.mongodb.net/dbNotes');
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.p6rrr.mongodb.net/dbNotes');
 
 app.use("/", require("./routes/noteRoute"));
 
